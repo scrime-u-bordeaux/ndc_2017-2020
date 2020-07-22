@@ -1,0 +1,16 @@
+/home/scrime/Documents/proj/perf_partage/__stems/t1_s1_insects_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t1_s2_feuillages_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t1_s3_frogs_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t1_s4_nightingale_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t2_s1_monsters_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t2_s2_digifrogs_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t2_s3_digicrows_mono.wav
+/home/scrime/Documents/proj/perf_partage/__stems/t2_s4_digibirds_mono.wav
+/home/scrime/Documents/proj/perf_partage/fonds/t1_bacground.wav
+/home/scrime/Documents/proj/perf_partage/fonds/t2_background.wav
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
